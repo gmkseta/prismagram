@@ -1,0 +1,19 @@
+
+mutation{
+  updateUser(data: {following: {
+  	connect: {
+      id: "ck6ta27avzp4h0b00ng92g0a8"
+    }  
+  }}where:{id: "ck6s5lpybujbx0b00v9wqbrc8"}){
+    username
+    firstName
+    lastName
+    email
+    following{
+      id
+    }
+    followers{
+      id
+    }
+  }
+}
