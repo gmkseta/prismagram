@@ -4,6 +4,9 @@ Insta clone with Express + Prisma + React
 
 ## User Stories
 
+- [x] Create account
+- [ ] Request Secret
+- [ ] Confirm Secret
 - [ ] Log in
 - [ ] See the feed
 - [ ] Like / Unlike a photo
@@ -14,7 +17,6 @@ Insta clone with Express + Prisma + React
 - [ ] Follow / Unfollow User
 - [ ] See the full photo
 - [ ] Edit my profile
-- [ ] Create account
 - [ ] Upload a photo
 - [ ] Edit the photo ( Delete )
 - [ ] See the feed
