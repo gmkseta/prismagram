@@ -4,6 +4,7 @@ Insta clone with Express + Prisma + React
 
 ## User Stories
 
+- [ ] Log in
 - [ ] See the feed
 - [ ] Like / Unlike a photo
 - [ ] Comment on a Photo
@@ -14,7 +15,6 @@ Insta clone with Express + Prisma + React
 - [ ] See the full photo
 - [ ] Edit my profile
 - [ ] Create account
-  - [ ] Log in
 - [ ] Upload a photo
 - [ ] Edit the photo ( Delete )
 - [ ] See the feed
